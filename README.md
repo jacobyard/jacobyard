@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World, I'm Jake, A Product Designer learning to dabble in code. 👋
 
 - 🔭 I’m currently working on my personal portfolio website
 - 🌱 I’m currently learning HTML, CSS, JS, Git & Lottiefiles
