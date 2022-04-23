@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Fun side projects**
 
-- 🤝 I’m looking for help with **Writing clean code**
+- 🤝 I’m looking for help with **Writing clean, optimized code**
 
 - 💬 Ask me about **Hiking, Music, Video Games**
 
