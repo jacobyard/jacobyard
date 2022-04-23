@@ -1,6 +1,6 @@
-## Hello World, I'm Jake 👋
+# Hello World, I'm Jake 👋
 
-### I'm a Product Designer currently learning to dabble in code.
+## I'm a Product Designer currently learning to dabble in code.
 
 - 🔭 I’m currently working on my personal portfolio website
 - 🌱 I’m currently learning HTML, CSS, JS, Git & Lottiefiles
