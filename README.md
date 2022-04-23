@@ -1,5 +1,5 @@
-<h1 align="center">Hello World, I'm Jake 👋</h1>
-<h3 align="center">I'm a Product Designer currently learning to dabble in code.</h3>
+<h1 align="left">Hello World, I'm Jake 👋</h1>
+<h3 align="left">I'm a Product Designer currently learning to dabble in code.</h3>
 
 - 🔭 I’m currently working on **my Personal Portfolio Website**
 
