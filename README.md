@@ -9,11 +9,7 @@
 
 - 🤝 I’m looking for help with **Writing clean, optimized code**
 
-- 💬 Ask me about **Hiking, Music, Video Games**
-
 - 📫 How to reach me **jakeyarddesign@gmail.com**
-
-- ⚡ Fun fact **I'm currently converting an old mountain bike into a repainted bikepacking bike for the summer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
